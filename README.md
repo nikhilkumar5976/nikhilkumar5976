@@ -1,4 +1,6 @@
-## Hi there 👋
+<img width="540" height="504" alt="216082" src="https://github.com/user-attachments/assets/2067afb4-541e-4631-9966-b0769d7c7011" />
+
+
 
 <!--
 **nikhilkumar5976/nikhilkumar5976** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
